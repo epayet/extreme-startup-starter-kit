@@ -1,3 +1,5 @@
+// TODO this will be removed
+
 var express = require("express");
 var cookieParser = require('cookie-parser');
 var session = require('express-session');

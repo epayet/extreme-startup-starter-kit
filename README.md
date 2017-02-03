@@ -12,10 +12,19 @@ You get points when it's correct, you loose points when it's wrong. You loose ma
 
 You can choose your language as long as you are able to respond to the http requests.
 
-## Example
+### Example
 
 To the question: `GET http://yourip:port/?q=what-is-your-name`,
 your server has to be able to respond: `my team name`
+
+## How to use it
+
+TODO
+
+## TODO
+
+* Add testing
+* Finish doc
 
 ## Versions
 
