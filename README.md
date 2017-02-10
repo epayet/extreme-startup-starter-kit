@@ -19,12 +19,11 @@ your server has to be able to respond: `my team name`
 
 ## How to use it
 
-TODO
+The main thing you will have to edit is: `src/answerObjects.js`. 
+Everything is explained in the file, and it's great for pairing. 
+Different people can focus on different objects an the same time.
 
-## TODO
-
-* Add testing
-* Finish doc
+Start the server with: `npm start`. Nodemon is used to restart automatically the server when is file is changed.
 
 ## Versions
 
